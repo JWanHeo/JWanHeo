@@ -1,4 +1,4 @@
-# Hi there, I'm Jewan 👋
+# Hi there, I'm Jay 👋
 
 ### Backend Developer | Java · Kotlin · Spring Boot
 
