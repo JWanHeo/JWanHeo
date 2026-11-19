@@ -22,7 +22,8 @@ I believe good software engineering starts with understanding the problem, imple
 **Backend & Frameworks**
 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- FastAPI
+![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 **Database & Messaging**
